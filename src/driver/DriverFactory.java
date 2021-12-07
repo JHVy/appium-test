@@ -1,4 +1,4 @@
-package lesson14;
+package driver;
 
 import caps.MobileCapabilityTypeEx;
 import io.appium.java_client.MobileElement;
