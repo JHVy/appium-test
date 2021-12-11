@@ -19,10 +19,10 @@ public class LaunchApp {
             DesiredCapabilities desiredCapabilities = new DesiredCapabilities();
             desiredCapabilities.setCapability(MobileCapabilityTypeEx.PLATFORM_NAME, "Android");
             desiredCapabilities.setCapability(MobileCapabilityTypeEx.AUTOMATION_NAME, "uiautomator2");
-            desiredCapabilities.setCapability(MobileCapabilityTypeEx.UDID, "R58M61NHNJP");
+            desiredCapabilities.setCapability(MobileCapabilityTypeEx.UDID, "RF8R71TCPMP");
             desiredCapabilities.setCapability(MobileCapabilityTypeEx.APP_ACTIVITY, "com.wdiodemoapp.MainActivity");
             desiredCapabilities.setCapability(MobileCapabilityTypeEx.APP_PACKAGE, "com.wdiodemoapp");
-            desiredCapabilities.setCapability(MobileCapabilityTypeEx.NEW_COMMAND_TIMEOUT, 120);
+            desiredCapabilities.setCapability(MobileCapabilityTypeEx.NEW_COMMAND_TIMEOUT, 200);
 
 
             // {capabilities} -----> Appium Server: 4723
