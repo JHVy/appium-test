@@ -1,0 +1,3 @@
+- Open/close notifications, get info and verify
+- working on multiple app same time on same device
+- taking screenshot
